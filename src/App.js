@@ -1,9 +1,10 @@
-import Login from "./pages/Login";
+import Checkout from "./pages/Checkout";
+// import Login from "./pages/Login";
 
 function App() {
   return (
     <div className="App">
-     <Login></Login>
+      <Checkout />
     </div>
   );
 }
